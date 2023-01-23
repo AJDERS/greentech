@@ -130,6 +130,7 @@ dmypy.json
 
 /data/raw/*
 /data/interim/*
+/data/processed/*
 
 # Data folder except summary
 !data/Short_Summary.txt
