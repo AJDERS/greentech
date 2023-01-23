@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 /data/raw/*
+/data/interim/*
 
 # Data folder except summary
 !data/Short_Summary.txt
