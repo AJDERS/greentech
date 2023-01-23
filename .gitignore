@@ -131,3 +131,6 @@ dmypy.json
 # Data folder except summary
 data/*
 !data/Short_Summary.txt
+
+# .DS_Store
+.DS_Store
