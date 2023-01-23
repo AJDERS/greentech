@@ -43,6 +43,11 @@
     "remoteUser": "vscode",
     "features": {
     },
+    "runArgs": [
+        "--gpus", "all",
+        "--shm-size", "32gb"
+    ],
+
     "postStartCommand": "pip install -e ."
 
 }
