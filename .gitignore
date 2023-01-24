@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/data/raw/*
+/data/interim/*
+/data/processed/*
+
+# Data folder except summary
+!data/Short_Summary.txt
+
+# .DS_Store
+.DS_Store
+
+# keep .gitkeep
+!/data/*/.gitkeep
